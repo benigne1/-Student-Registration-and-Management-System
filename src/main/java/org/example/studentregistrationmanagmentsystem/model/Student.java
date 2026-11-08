@@ -1,4 +1,4 @@
-package org.example.studentregistrationmanagmentsystem;
+package org.example.studentregistrationmanagmentsystem.model;
 
 
 

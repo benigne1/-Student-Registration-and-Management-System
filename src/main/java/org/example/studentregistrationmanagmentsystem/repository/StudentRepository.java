@@ -1,9 +1,9 @@
-package org.example.studentregistrationmanagmentsystem;
+package org.example.studentregistrationmanagmentsystem.repository;
 
 
 
-import com.example.studentmanagement.config.DatabaseConfig;
-import com.example.studentmanagement.model.Student;
+import org.example.studentregistrationmanagmentsystem.config.DatabaseConfig;
+import org.example.studentregistrationmanagmentsystem.model.Student;
 import org.springframework.stereotype.Repository;
 
 import java.sql.Connection;
